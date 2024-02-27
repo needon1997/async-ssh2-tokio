@@ -49,3 +49,4 @@ pub use error::Error;
 pub use to_socket_addrs_with_hostname::ToSocketAddrsWithHostname;
 
 pub use russh::client::Config;
+pub use russh::ChannelMsg;
